@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"YaMetricaWeb","order":2,"path":"extensions/YaMetricaWeb/YaMetricaWeb.yy",},
+    {"name":"obj_test","order":1,"path":"objects/obj_test/obj_test.yy",},
+    {"name":"r_test","order":2,"path":"rooms/r_test/r_test.yy",},
+  ],
+}
